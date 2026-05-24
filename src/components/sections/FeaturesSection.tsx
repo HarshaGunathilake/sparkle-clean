@@ -35,7 +35,7 @@ export default function FeaturesSection() {
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 rounded-full bg-brand-200 flex items-center justify-center text-xl">🌿</div>
                 <div>
-                  <div className="font-semibold text-brand-900 text-sm">Harsha Gunathilake</div>
+                  <div className="font-semibold text-brand-900 text-sm">Oliver Harris</div>
                   <div className="text-brand-600 text-xs">Founder & Director</div>
                 </div>
               </div>

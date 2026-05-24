@@ -17,7 +17,7 @@ const values = [
 ]
 
 const timeline = [
-  { year: '2024', event: 'Sammy Gunathilake completes 5 years as Maintenance Team Leader in Melbourne\'s commercial cleaning industry.' },
+  { year: '2024', event: 'Sammy Oliver Harris completes 5 years as Maintenance Team Leader in Melbourne\'s commercial cleaning industry.' },
   { year: 'Early 2025', event: 'Sparkle Clean is founded with a mission to bring professional, eco-friendly cleaning to Melbourne homes and businesses.' },
   { year: '2025', event: 'Achieved Licensed Labour Hire Provider status and WorkSafe Victoria compliance.' },
   { year: 'Today', event: 'Serving 500+ happy clients across Melbourne with 10+ service categories and growing.' },
@@ -54,7 +54,7 @@ export default function AboutPage() {
               <span className="gradient-text">Driven by Standards</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-4 text-lg">
-              Sparkle Clean was founded by <strong className="text-foreground">Harsha Gunathilake</strong>, who brings deep hands-on experience from his time as a Maintenance Team Leader at a large Melbourne-based commercial cleaning company.
+              Sparkle Clean was founded by <strong className="text-foreground">Oliver Harris</strong>, who brings deep hands-on experience from his time as a Maintenance Team Leader at a large Melbourne-based commercial cleaning company.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-6">
               That experience gave a comprehensive understanding of what clients truly need — reliable service, attention to detail, and the confidence that comes from working with a team that genuinely cares about results. He founded Sparkle Clean in 2025 with a clear mission: to provide high-quality, eco-friendly cleaning services to both residential and commercial clients across Melbourne.
@@ -72,7 +72,7 @@ export default function AboutPage() {
             {/* Founder card */}
             <div className="bg-gradient-to-br from-brand-800 to-brand-950 rounded-3xl p-8 text-white mb-5">
               <div className="w-16 h-16 rounded-2xl bg-brand-600 flex items-center justify-center text-3xl mb-5">🌿</div>
-              <div className="font-display font-bold text-2xl mb-1">Harsha Gunathilake</div>
+              <div className="font-display font-bold text-2xl mb-1">Oliver Harris</div>
               <div className="text-brand-400 text-sm mb-6 uppercase tracking-wider">Founder & Director</div>
               <blockquote className="text-white/75 leading-relaxed italic border-l-2 border-brand-400 pl-4">
                 &ldquo;I started Sparkle Clean because I knew there was a better way — one that combines professional results with environmentally responsible practices. Every client deserves a space they&apos;re proud of.&rdquo;
