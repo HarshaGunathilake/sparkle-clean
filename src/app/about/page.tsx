@@ -72,7 +72,7 @@ export default function AboutPage() {
             {/* Founder card */}
             <div className="bg-gradient-to-br from-brand-800 to-brand-950 rounded-3xl p-8 text-white mb-5">
               <div className="w-16 h-16 rounded-2xl bg-brand-600 flex items-center justify-center text-3xl mb-5">🌿</div>
-              <div className="font-display font-bold text-2xl mb-1">Sammy Gunathilake</div>
+              <div className="font-display font-bold text-2xl mb-1">Harsha Gunathilake</div>
               <div className="text-brand-400 text-sm mb-6 uppercase tracking-wider">Founder & Director</div>
               <blockquote className="text-white/75 leading-relaxed italic border-l-2 border-brand-400 pl-4">
                 &ldquo;I started Sparkle Clean because I knew there was a better way — one that combines professional results with environmentally responsible practices. Every client deserves a space they&apos;re proud of.&rdquo;
