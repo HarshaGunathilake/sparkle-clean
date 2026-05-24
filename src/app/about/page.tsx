@@ -54,7 +54,7 @@ export default function AboutPage() {
               <span className="gradient-text">Driven by Standards</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-4 text-lg">
-              Sparkle Clean was founded by <strong className="text-foreground">Sammy Gunathilake</strong>, who brings deep hands-on experience from his time as a Maintenance Team Leader at a large Melbourne-based commercial cleaning company.
+              Sparkle Clean was founded by <strong className="text-foreground">Harsha Gunathilake</strong>, who brings deep hands-on experience from his time as a Maintenance Team Leader at a large Melbourne-based commercial cleaning company.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-6">
               That experience gave Sammy a comprehensive understanding of what clients truly need — reliable service, attention to detail, and the confidence that comes from working with a team that genuinely cares about results. He founded Sparkle Clean in 2025 with a clear mission: to provide high-quality, eco-friendly cleaning services to both residential and commercial clients across Melbourne.
